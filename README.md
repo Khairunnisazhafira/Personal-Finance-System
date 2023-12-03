@@ -12,7 +12,9 @@ Personal finance system merupakan implementasi framework laravel 8.54 dan PHP 7.
 
 # Prasyarat
 XAMPP 8.2 (https://www.apachefriends.org)
+
 Composer (https://getcomposer.org)
+
 MySQL ^12
 
 # Langkah-langkah
