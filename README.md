@@ -1,5 +1,5 @@
 # Sistem Informasi Akuntansi
-Personal finance system merupakan implementasi framework laravel 8.54 dan PHP 7.3 yang digunakan untuk
+Personal finance system merupakan implementasi framework laravel 8.54 dan PHP 7.3 yang digunakan untuk pengelolaan uang serta tabungan dan investasi pada pengguna pribadi
 # Flowchart
 ![flowchart sia](https://github.com/Khairunnisazhafira/Personal-Finance-System/assets/152596345/3b0086b6-02ff-457b-a04b-b9f40083f1cf)
 
